@@ -42,8 +42,7 @@ where N(·) is the normalization function ensuring ||Ψ(t)||₂ = 1.
 
 ### Running the Analysis
 ```bash
-cd real_computation
-python omega_real_computation_with_Lyapunov.py
+Omega_Protocol_Lyapunov.ipynb
 ```
 
 ## Results
